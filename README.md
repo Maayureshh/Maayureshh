@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science with sybersec and blockchain dev.
 - 💞️ I’m looking to collaborate on anything intresting in which i can learn.
 - 📫 How to reach me mayueshvengurlekar3@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He / Him
 - ⚡ Fun fact: ...
 
 <!---
